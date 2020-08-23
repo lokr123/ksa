@@ -1,0 +1,96 @@
+#all{
+    margin: 0 auto ;
+    
+}
+
+
+ul{
+    float: right;
+   
+}
+
+#lokr-ksa-1 {
+    background-color:#3A0000;
+    padding: 50px;
+
+    color: white;
+
+}
+
+
+
+
+
+
+
+
+
+a{
+    text-decoration: none;
+    color: inherit;
+
+}
+
+a:hover{
+    color: rgb(180, 180, 180);
+
+}
+
+
+
+
+#lokr-ksa-4{
+    color: whitesmoke;
+    margin: 0px 30px 0px;
+    font-size: 25px;
+
+}
+
+
+
+#hhh{
+    color: #d47979;
+}
+
+
+
+#lokr-ksa-3{
+    color: black;
+    margin: 0px 800px 0px;
+     font-size: 45px;
+     text-align: center;
+}
+
+
+
+h1{
+    padding-left: 50px;
+    font-size: 50px;
+
+}
+
+h2{
+
+    font-size: 50px;
+    text-align: center;
+    color: red;
+}
+
+
+#lokr-ksa-2{
+    font-size: 50px;
+    text-align: center;
+   
+} 
+
+
+
+
+
+
+
+
+
+
+
+
